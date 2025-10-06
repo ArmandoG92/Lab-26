@@ -1,11 +1,11 @@
 {
     "id": "9B8F9589",
-    "path": null,
-    "project_path": null,
+    "path": "~/GitHub/Lab-26/lab 26.R",
+    "project_path": "lab 26.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "515786017",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1759709839886.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "95"
     },
     "folds": "",
-    "lastKnownWriteTime": 866100802119084624,
-    "encoding": "",
+    "lastKnownWriteTime": 1759711519,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1759711377012,
+    "last_content_update": 1759711519980,
     "read_only": false,
     "read_only_alternatives": []
 }
